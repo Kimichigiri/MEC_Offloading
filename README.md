@@ -1,2 +1,2 @@
 # MEC_Offloading
-MEC Offloading
+Cukup berantakan, namun penyelesaian tercapai. Mohon maaf sebesar-besarnya
